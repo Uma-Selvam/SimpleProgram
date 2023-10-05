@@ -8,6 +8,9 @@ public class SampleProgram {
 		
 		s.contains("m");
 		
+		System.out.println("Work Done by A");
+		System.out.println("Working on Status");
+		System.out.println("Working well On Local");
 
 	}
 
